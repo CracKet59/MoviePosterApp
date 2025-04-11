@@ -12,8 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Main activity class that manages the user interface of the application.
- * This activity displays a list of movie posters and allows users to add selected posters to a watchlist.
+ This is the first change
  */
 public class MainActivity extends AppCompatActivity implements PostersListener {
 
